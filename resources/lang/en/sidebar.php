@@ -1,0 +1,27 @@
+<?php
+return [
+    "dashboard" => "Dashboard",
+    "transfer_companies" => "Transfer Companies",
+    "my_hotels" => "My hotels",
+    "my_tourism_companies" => "My Tourism Companies",
+    "drivers" => "Drivers",
+    "hosts" => "Hosts",
+    "prices" => "Prices",
+    "shuttles" => "Shuttles",
+    "transfers" => "Transfers",
+    "list" => "List",
+    "hotel_tourism" => "Hotel & Tourism Company",
+    "stations" => "Stations",
+    "airports" => "Airports",
+    "cars" => "Cars",
+    "car_models" => "Car Models",
+    "admins" => "Admins",
+    "roles" => "Roles",
+    "payments" => "Payments",
+    "invoices" => "Invoices",
+    "reports" => "Reports",
+    "annual_report" => "Annual Report",
+    "chart" => "Charts",
+    "settings" => "Settings",
+    "languages" => 'Languages'
+];
